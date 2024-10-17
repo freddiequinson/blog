@@ -7,7 +7,7 @@ This final project is an exciting opportunity to showcase the knowledge acquired
 Website Objectives:
 
 <ul>
-<li>Educate and entertain: The website will serve as a platform to share informative content about various facets of African culture, including history, art, music, literature, traditions, and current events. It will present this information in an engaging and interactive manner, catering to a broad audience.</li>
+<li>Educate: The website will serve as a platform to share informative content about various facets of African culture, including history, art, music, literature, traditions, and current events. It will present this information in an engaging and interactive manner, catering to a broad audience.</li>
 <li>Promote cultural understanding and appreciation: The website aims to dispel stereotypes and misconceptions about Africa, fostering a deeper understanding and appreciation for its unique cultural heritage. This will be achieved by showcasing the continent's vibrant diversity and highlighting its contributions to the global community.</li>
 <li>Empower young people: The website will serve as a resource for young Africans to connect with their heritage and learn about their roots. It will also provide them with inspiration and motivation to embrace their identities and contribute to the positive development of the continent.
 Create a community: The website will create a platform for people of all backgrounds to come together and celebrate African culture. It will provide opportunities for interaction, dialogue, and collaboration, fostering a sense of community and belonging.</li>
