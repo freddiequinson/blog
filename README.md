@@ -26,7 +26,7 @@ Create a community: The website will create a platform for people of all backgro
 </ul>
 
 
-<h2>Project Team:</h2>
+<h2>Project Creator:</h2>
 
 This project is being developed by a team of three students:
 
