@@ -2,7 +2,7 @@
 <h2>Replit Final Project: A Celebration of African Culture</h2>
 
 
-This final project is an exciting opportunity to showcase my knowledge acquired in this HTML, CSS, and web development course. As a culmination of learning, this project aims to create a website that celebrates the rich and diverse tapestry of African culture.
+This  project is an exciting opportunity to showcase my knowledge acquired in this HTML, CSS, and web development course. As a culmination of learning, this project aims to create a website that celebrates the rich and diverse tapestry of African culture.
 
 Website Objectives:
 
