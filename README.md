@@ -29,7 +29,7 @@ Create a community: The website will create a platform for people of all backgro
 <h2>Project Creator:</h2>
 
 This project is being developed by Agyare Fredrick.
-I aim to create a website that is both educational and entertaining, celebrating the beauty and richness of African culture.
+
 
 <h2>Project Conclusion:</h2>
 
