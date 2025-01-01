@@ -28,7 +28,8 @@ Create a community: The website will create a platform for people of all backgro
 
 <h2>Project Creator:</h2>
 
-This project is being developed by Agyare Fredrick.
+This project is being developed by Freddie Quinson.
+
 
 
 <h2>Project Conclusion:</h2>
