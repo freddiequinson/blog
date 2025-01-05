@@ -28,13 +28,8 @@ Create a community: The website will create a platform for people of all backgro
 
 <h2>Project Team:</h2>
 
-This project is being developed by a team of three students:
-
-<ol>
+This project is being developed by 
 <li>Agyare Fredrick</li>
-<li>Eleazer Quayson</li>
-<li>Adeyemo Christanah</li>
-</ol>
 
 Each team member brought unique skills and perspectives to the project, contributing to its success. Together, we aim to create a website that is both educational and entertaining, celebrating the beauty and richness of African culture.
 
